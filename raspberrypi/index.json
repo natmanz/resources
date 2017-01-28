@@ -1,4 +1,4 @@
-{
+	{
 	"resources": [
 		{
 			"title": "Mapping the Weather",
@@ -47,189 +47,150 @@
 			"verified": false,
 			"link": "https://www.raspberrypi.org/learning/fetching-the-weather/"
 		},{
-			"title": "",
-			"description": "",
+			"title": "Lights Out!",
+			"description": "In this resource you will find out how to make a fun and fast-paced Explorer HAT reaction game",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/lights-out/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Whoopi Cushion",
+			"description": "Learn how to make a whoopee cushion powered by a Raspberry Pi to prank your pals.",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/whoopi-cushion/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Scary Spot The Difference",
+			"description": "Make a scary spot the difference game in Python",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/scary-spot-the-difference/"
 		},{
-			"title": "",
-			"description": "",
+			"title": "Micromine bitcraft",
+			"description": "Learn how to use your micro:bit to help (or sabotage!) Steve in Minecraft Pi",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/micromine-bitcraft/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Add-ons Guide",
+			"description": "Guide to using add-ons and accessories with the Raspberry Pi",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/addons-guide/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Teachers Guide",
+			"description": "Guide for teachers introducing Raspberry Pi to the classroom",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/teachers-guide/"
 		},{
-			"title": "",
-			"description": "",
+			"title": "Troubleshooting Guide",
+			"description": "Answers to the top 10 most common problems when getting started with Raspberry Pi",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/troubleshooting-guide/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Parents Guide",
+			"description": "Guide to using the Raspberry Pi for parents",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/parents-guide/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Software Guide",
+			"description": "Guide to installing an operating system on your micro SD card to use with your Raspberry Pi",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/software-guide/"
 		},{
-			"title": "",
-			"description": "",
+			"title": "Hardware Guide",
+			"description": "Getting started with Raspberry Pi hardware",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
 			"link": ""
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Minecraft Selfies",
+			"description": "Make a selfie wall in Minecraft with Python",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/minecraft-selfies/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Scratch Olympics – Hurdler",
+			"description": "A hurdler game in Scratch",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/scratch-olympics-hurdler/"
 		},{
-			"title": "",
-			"description": "",
+			"title": "The Scratch Olympics – Weightlifter",
+			"description": "Make a weightlifter game in Scratch",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/scratch-olympics-weightlifter/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Getting Started with the Twitter API",
+			"description": "A guide to connecting to Twitter from Python using Twython",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/getting-started-with-the-twitter-api/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Turtley Amazing",
+			"description": "In this resource you will take your first steps with the programming langauge Python",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/turtley-amazing/"
 		},{
-			"title": "",
-			"description": "",
+			"title": "Physical Computing with Python",
+			"description": "Physical computing on the Raspberry Pi using Python",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/physical-computing-with-python/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "micro:bit selfies",
+			"description": "Taking selfies with the micro:bit and a Raspberry Pi",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/microbit-game-controller/"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "micro:bit game controller",
+			"description": "In this resource you will use a micro:bit to control a sprite in the programming environment Scratch",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/microbit-game-controller/"
 		},{
-			"title": "",
-			"description": "",
+			"title": "micro:bit Meteorologist",
+			"description": "Display weather icons on your micro:bit, using a Raspberry Pi",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": false,
-			"link": ""
-		},
-		{
-			"title": "",
-			"description": "",
-			"level": 0,
-			"type": "Sushi Card",
-			"verified": false,
-			"link": ""
-		},
-		{
-			"title": "",
-			"description": "",
-			"level": 0,
-			"type": "Sushi Card",
-			"verified": false,
-			"link": ""
-		},{
-			"title": "",
-			"description": "",
-			"level": 0,
-			"type": "Sushi Card",
-			"verified": false,
-			"link": ""
-		},
-		{
-			"title": "",
-			"description": "",
-			"level": 0,
-			"type": "Sushi Card",
-			"verified": false,
-			"link": ""
-		},
-		{
-			"title": "",
-			"description": "",
-			"level": 0,
-			"type": "Sushi Card",
-			"verified": false,
-			"link": ""
+			"link": "https://www.raspberrypi.org/learning/microbit-meteorologist/"
 		}
 	]
 }
