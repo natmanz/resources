@@ -1,12 +1,148 @@
-{
-	"resources": [
-		{
-			"title": "test title",
-			"description": "This is a description test.",
-			"level": 0,
-			"type": "Sushi Card",
-			"verified": true,
-			"link": "#"
-		}
-	]
-}
+	{
+		"resources": [
+	  {
+	    "title": "Change Colour",
+	    "description": "How to change colour",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//pdfs/help/01_v2_ChangeColor.pdf"
+	  },
+	  {
+	    "title": "Move to a Beat",
+	    "description": "How to make your sprite move to sound",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//images/help/card-movetoabeat-thumb.png"
+	  },
+	  {
+	    "title": "Key Moves",
+	    "description": "How to make your sprite move",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//images/help/card-keymoves-thumb.png"
+	  },
+	  {
+	    "title": "Say Something",
+	    "description": "How to make your sprite speak",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//images/help/card-saysomething-thumb.png"
+	  },
+	  {
+	    "title": "Glide",
+	    "description": "How to make your sprite glide",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//images/help/card-glide-thumb.png"
+	  },
+	  {
+	    "title": "Follow the Mouse",
+	    "description": "How to make your sprite follow your mouse movements",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//images/help/card-followthemouse-thumb.png"
+	  },
+	  {
+	    "title": "Dance Twist",
+	    "description": "How to make your sprite twist",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//pdfs/help/07_v2_DanceTwist.pdf"
+	  },
+	  {
+	    "title": "Interactive Whirl",
+	    "description": "How to make your sprite spin around",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//pdfs/help/08_v2_InteractiveWhirl.pdf"
+	  },
+	  {
+	    "title": "Animate It",
+	    "description": "How to make your sprite change costume",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//pdfs/help/09_v2_AnimateIt.pdf"
+	  },
+	  {
+	    "title": "Moving Animation",
+	    "description": "How to make your sprite look like it's flying",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//pdfs/help/10_v2_MovingAnimation.pdf"
+	  },
+	  {
+	    "title": "Surprise Button",
+	    "description": "How to make your sprite play the drums",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//pdfs/help/11_v2_SurpriseButton.pdf"
+	  },
+	  {
+	    "title": "Keep Score",
+	    "description": "How to keep score in your Scratch game",
+	    "level": 0,
+	    "type": "Guide Card",
+	    "verified": true,
+	    "link": "http://cdn.scratch.mit.edu/scratchr2/static/__a484d5b4642c8eb099d018f75498e7ff__//pdfs/help/12_v2_KeepScore.pdf"
+	  },
+	  {
+	    "title": "Beetle Game",
+	    "description": "Great way to start learning how to make a scratch game",
+	    "level": 0,
+	    "type": "Guide Card",
+	    "verified": true,
+	    "link": "https://drive.google.com/open?id=0B2kxxV6K0b8NdkdNMXE3NmhIbmc"
+	  },
+	  {
+	    "title": "Scratch Basics",
+	    "description": "Learn the basics of coding with Scratch, the visual programming language.",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": false,
+	    "link": "http://kata.coderdojo.com/images/6/69/Beginner_Scratch_Sushi.pdf"
+	  },
+	  {
+	    "title": "Intermediate Scratch",
+	    "description": "Ninjas learn more advanced Scratch, while creating some awesome visualisations.",
+	    "level": 1,
+	    "type": "Sushi Card",
+	    "verified": false,
+	    "link": "http://kata.coderdojo.com/images/4/4b/Intermediate_Scratch_Sushi.pdf"
+	  },
+	  {
+	    "title": "Advanced Scratch",
+	    "description": "Ninjas learn advanced Scratch, while creating a platformer video game they can expand on their own.",
+	    "level": 3,
+	    "type": "Sushi Card",
+	    "verified": false,
+	    "link": "http://kata.coderdojo.com/wiki/Advanced_Scratch"
+	  },
+	  {
+	    "title": "Cat and mouse",
+	    "description": "Ninjas will learn the basic skills needed to create your own game, including sprite movement and collision detection! By the end you will have a cat who meows when she catches her mouse.",
+	    "level": 0,
+	    "type": "Sushi Card",
+	    "verified": false,
+	    "link": "http://fremontcoderdojo.com/2014/10/30/scratch-tutorial/"
+	  },
+	  {
+	    "title": "Pong Breakout",
+	    "description": "Fabulous game, one of the first",
+	    "level": 1,
+	    "type": "Guide Card",
+	    "verified": false,
+	    "link": "https://drive.google.com/open?id=0B2kxxV6K0b8NQVVfQ2VsT3Y2Mm8"
+	  }
+		]	
+	}
