@@ -1,12 +1,52 @@
 {
 	"resources": [
 		{
-			"title": "test title",
-			"description": "This is a description test.",
+			"title": "Assets (Sprites)",
+			"description": "These will be used through out the course",
+			"level": 0,
+			"type": "Assets",
+			"verified": true,
+			"link": "https://www.dropbox.com/sh/4nfvi95tddpim66/AAASl-g8zb-fsAS-znOrvsa1a/unity/_assets?dl=0"
+		},
+		{
+			"title": "Installation",
+			"description": "This is the long bit. But once it's done you are ready to jump into the world of unity!",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": true,
-			"link": "#"
-		}
+			"link": "https://www.dropbox.com/sh/4nfvi95tddpim66/AAAmBztwXaBraoqowRoDS0UKa/unity/InstallUnityPro.pdf?dl=0"
+		},
+		{
+			"title": "Getting Started",
+			"description": "Learn how to create a basic 2D platformer in unity!",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": "https://www.dropbox.com/sh/4nfvi95tddpim66/AADanFah6qZHYSMjvfUKoPqva/unity/Getting%20Started.pdf?dl=0"
+		},
+		{
+			"title": "Jumpman!",
+			"description": "Time to jump!",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": "https://www.dropbox.com/sh/4nfvi95tddpim66/AACi66cL8aw1EO8HozaY2As2a/unity/Jumpman.pdf?dl=0"
+		},
+		{
+			"title": "Death and Rebirth",
+			"description": "Learn about dying and respawning your character.",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": "https://www.dropbox.com/sh/4nfvi95tddpim66/AAByA8w8LkqaCUjKHQlIAQG_a/unity/DeathandRebirth.pdf?dl=0"
+		},
+		{
+			"title": "Animations",
+			"description": "Learn about basic walking animations",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": "https://www.dropbox.com/sh/4nfvi95tddpim66/AAC_dn6Q1uoySqdpVkP9iGLga/unity/Animations.pdf?dl=0"
+		}	
 	]
 }
