@@ -1,12 +1,76 @@
 {
 	"resources": [
 		{
-			"title": "test title",
-			"description": "This is a description test.",
+			"title": "Hello World",
+			"description": "An inroduction into JavaScript",
 			"level": 0,
 			"type": "Sushi Card",
 			"verified": true,
-			"link": "#"
+			"link": ""
+		},
+		{
+			"title": "Variables",
+			"description": "Learn about variables in JavaScript",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": ""
+		},
+		{
+			"title": "Conditionals",
+			"description": "If and else in JavaScript",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": ""
+		},
+		{
+			"title": "Rock Paper Scissors",
+			"description": "Combine all we've learnt to make a cool Rock Paper Scissors game in JavaScript",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": ""
+		},{
+			"title": "Arrays",
+			"description": "Learn about Arrays in JavaScript",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": ""
+		},
+		{
+			"title": "Functions",
+			"description": "Functions in JavaScript",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": ""
+		},
+		{
+			"title": "While",
+			"description": "While loops in JavaScript",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": ""
+		},
+		{
+			"title": "For Loops",
+			"description": "For loops in JavaScript",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": ""
+		},
+		{
+			"title": "Christmas Tree",
+			"description": "A christmas themed tutorial",
+			"level": 0,
+			"type": "Sushi Card",
+			"verified": true,
+			"link": ""
 		}
+
 	]
 }
